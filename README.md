@@ -1,11 +1,14 @@
 # test-errores-http
 
+---------------------------------------
+
 100: Continue
 
 101: Switching protocols
 
 102: Processing (WebDAV)
 
+---------------------------------------
 
 200: OK
 
@@ -27,6 +30,7 @@
 
 226: IM Used
 
+---------------------------------------
 
 300: Multiple Choices
 
@@ -42,6 +46,7 @@
 
 308: Permanent Redirect
 
+---------------------------------------
 
 400: Bad Request
 
@@ -101,6 +106,7 @@
 
 451: Unavailable For Legal Reasons
 
+---------------------------------------
 
 500: Internal Server Error
 
@@ -122,3 +128,4 @@
 
 511: Network Authentication Required
 
+---------------------------------------
